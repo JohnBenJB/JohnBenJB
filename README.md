@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Benjamin
 
-<!--
-**JohnBenJB/JohnBenJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack engineer & community builder. I build products and the onboarding systems that help them grow. Mechanical Engineering student at Obafemi Awolowo University.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Angular, TypeScript, Tailwind
+- **Backend:** Node.js, PHP (Laravel), Python, MongoDB
+- **Smart contracts:** Rust, Solidity, Motoko, Move
+
+## Projects
+
+- [Seeker](https://github.com/JohnBenJB/Seeker): decentralized search engine on the Internet Computer
+- [Cafe](https://github.com/JohnBenJB/Cafe): AI-native dev hub for real-time team collaboration
+- [DAppStore](https://github.com/JohnBenJB/DAppStore): community-governed app store for Web3 dApps
+
+## Community
+
+I've helped several products and projects build and manage their communities from scratch across WhatsApp, Telegram and X.
+
+## Find me
+
+- LinkedIn: https://www.linkedin.com/in/benjaminjohn-c
+- X: https://x.com/WarMachine_911
